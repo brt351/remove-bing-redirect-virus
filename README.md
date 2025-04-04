@@ -7,7 +7,7 @@ The Bing Redirect Virus is a common browser hijacker that changes your default s
 | Malwarebytes (recommened) | Antivirus | ✅ | ✅ | [Download free](https://downloads.malwarebytes.com/file/090357) |
 | AdwCleaner | Adware Remover | ✅ | ✅ | [Visit](https://www.malwarebytes.com/adwcleaner/) |
 | HitmanPro | Second Opinion Scanner | ❌ | ✅ | [Visit](https://www.hitmanpro.com) |
-| **Bing Redirect Removal Guide** | Manual Guide | ✅ | ✅ | [Read Guide](https://malware.guide/browser-hijacker/remove-bingsearch-io-browser-hijacker-virus/) |
+| **Bing Redirect Removal Guide** | Manual Guide | ✅ | ✅ | [Read Guide](#) |
 | Restoro (optional) | System Repair Tool | ❌ | ✅ | [Visit](https://www.restoro.com) |
 
 ---
